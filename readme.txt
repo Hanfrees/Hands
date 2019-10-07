@@ -1,0 +1,1 @@
+Git is free software disrtibuted under the GPL.
